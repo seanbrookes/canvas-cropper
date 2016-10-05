@@ -1,5 +1,7 @@
 # canvas-cropper
 
+![](https://raw.githubusercontent.com/seanbrookes/canvas-cropper/master/documentation/images/screenshot-1.png)
+
 canvas-cropper is a HTML5 canvas based image upload and crop UI
 
 The UI features:
