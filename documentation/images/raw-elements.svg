@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="954px" height="473px" viewBox="0 0 954 473" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>raw-elements</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="281" y="0" width="261" height="78"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="261" height="78" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="288" y="186" width="261" height="78"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="261" height="78" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="372" y="271" width="149" height="32"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="149" height="32" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="590" y="172" width="149" height="32"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="149" height="32" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="288" y="271" width="56" height="32"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="56" height="32" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="288" y="271" width="56" height="32"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="56" height="32" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="271" y="355" width="123" height="92"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="123" height="92" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="419" y="355" width="123" height="92"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="123" height="92" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="290" y="102" width="261" height="52"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="261" height="52" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="raw-elements" transform="translate(-1.000000, 0.000000)">
+            <text id="Image/-Crop-preview" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="0" y="25">Image/ Crop preview &lt;Img /&gt;</tspan>
+            </text>
+            <text id="Main-Canvas-aka-Crop" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="7" y="201">Main Canvas aka Crop Window</tspan>
+            </text>
+            <text id="Controls" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="539" y="291">Controls</tspan>
+            </text>
+            <text id="Stats" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="766" y="192">Stats</tspan>
+            </text>
+            <text id="output-container" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="115" y="405">output container</tspan>
+            </text>
+            <text id="working-canvas" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="572" y="405">working canvas</tspan>
+            </text>
+            <text id="Frame-View" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="271" y="318">Frame View</tspan>
+            </text>
+            <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-1"></use>
+            <use id="Rectangle-Copy" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
+            <text id="this-is-invisible-un" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="12" y="54">this is invisible until the user </tspan>
+                <tspan x="12" y="72">clicks on ‘crop’ or ‘save’</tspan>
+            </text>
+            <text id="user-sets-the-width" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="19" y="229">user sets the width and hieght</tspan>
+                <tspan x="19" y="247">- in angular pass in the object </tspan>
+                <tspan x="19" y="265">and property name to map to </tspan>
+                <tspan x="19" y="283">the output when cropping</tspan>
+            </text>
+            <text id="probably-not-needed" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="19" y="433">probably not needed</tspan>
+                <tspan x="19" y="451">- textarea to display cropped </tspan>
+                <tspan x="19" y="469">output string</tspan>
+            </text>
+            <text id="used-to-do-image-man" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="595" y="433">used to do image </tspan>
+                <tspan x="595" y="451">manipulation</tspan>
+                <tspan x="595" y="469">- not supposed to be visible</tspan>
+            </text>
+            <text id="--upload---zoom---cr" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="620" y="279">- upload</tspan>
+                <tspan x="620" y="297">- zoom</tspan>
+                <tspan x="620" y="315">- crop</tspan>
+                <tspan x="620" y="333">- cancel</tspan>
+            </text>
+            <text id="--for-user-feedback" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="804" y="199">- for user feedback</tspan>
+                <tspan x="804" y="217">- optional</tspan>
+                <tspan x="804" y="235">- may be confusing</tspan>
+            </text>
+            <use id="Rectangle-2" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
+            <use id="Rectangle-2-Copy-2" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-7"></use>
+            <use id="Rectangle-2-Copy" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-9"></use>
+            <use id="Rectangle-2-Copy-3" stroke="#979797" mask="url(#mask-12)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-11"></use>
+            <use id="Rectangle-3" stroke="#979797" mask="url(#mask-14)" stroke-width="2" stroke-dasharray="2,2,2,2" xlink:href="#path-13"></use>
+            <use id="Rectangle-3-Copy" stroke="#979797" mask="url(#mask-16)" stroke-width="2" stroke-dasharray="2,2,2,2" xlink:href="#path-15"></use>
+            <text id="instruction-message-copy" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#0F0F0F">
+                <tspan x="374" y="122">instruction </tspan>
+                <tspan x="374" y="140">message</tspan>
+            </text>
+            <use id="Rectangle-5-Copy" stroke="#979797" mask="url(#mask-18)" stroke-width="2" stroke-dasharray="2,2,2" xlink:href="#path-17"></use>
+        </g>
+    </g>
+</svg>
