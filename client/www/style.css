@@ -1,0 +1,47 @@
+body {
+  background: #efefef;
+  position:relative;
+}
+.Layout {
+  display:flex;
+  flex-direction: row;
+}
+#scaleSlider {
+  vertical-align: 10px;
+  width: 40rem;
+  margin-left: 90px;
+}
+
+#canvas {
+  margin: 10px 20px 0px 20px;
+  border: thin solid #aaaaaa;
+  cursor: move;
+  padding: 0;
+}
+
+
+
+#scaleOutput {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  margin-left: 10px;
+  vertical-align: center;
+  text-align: center;
+  color: blue;
+  font: 18px Arial;
+  text-shadow: 2px 2px 4px rgba(100, 140, 250, 0.8);
+}
+.ImageMetrics {
+  background: rgba(200, 200, 200, .6);
+  padding:1rem;
+  width:40rem;
+
+}
+#controls {
+}
+
+
+.MainCanvas__Container {
+  position:relative;
+}
